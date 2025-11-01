@@ -1,0 +1,13 @@
+parameter,value,status,bounds
+J1,6.731739742638178,free,"[0.0, 10.0]"
+J2,-2.185597950133718,free,"[-4.0, 0.0]"
+J3,0.0,locked,"[0.0, 0.0]"
+J_alt,0.0,locked,"[0.0, 0.0]"
+J_prime_alt,0.0,locked,"[0.0, 0.0]"
+S,5.0,locked,"[5.0, 5.0]"
+D,3.6996318893282165,free,"[-10.0, 10.0]"
+
+residual_sum,469.9932093398839
+success,True
+message,`ftol` termination condition is satisfied.
+initial_guess,1.29469 -3.63334 0 0 0 5 1.97136

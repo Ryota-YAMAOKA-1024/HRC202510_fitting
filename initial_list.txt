@@ -1,0 +1,16 @@
+# parameter, initial_value, status(lock/free), lower_bound, upper_bound
+#J1,3.9380360382361874,lock,0,10
+#J2,-1.1593589584976804,lock,-4,0
+#J3,0.472,free,0,2
+#J_alt,0.0681,free,-5,5
+#J_prime_alt,-0.0221,free,-5,5
+#S,5.0,free,-4.5,5.5
+#D,6.373191530583121,lock,-10,10
+
+J1,3.99,free,0,10
+J2,-0.5,free,-4,0
+J3,0,lock,0,2
+J_alt,0,lock,-5,5
+J_prime_alt,0,lock,-5,5
+S,5.0,lock,4.5,5.5
+D,0.0,free,-10,10
